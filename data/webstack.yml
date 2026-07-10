@@ -25,9 +25,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=github.com/Kejifaxian/welcome/releases/tag/vpn
       url: https://github.com/Kejifaxian/welcome/releases/tag/vpn
       description: 代理软件
-    - title: "万事达虚拟银行卡"
-      url: "https://www.bybit.com/invite?ref=QAM3MOJ"
-      description: "国内usdt消费,支付宝、微信充值，海外消费。"
+    - title: VPN 部署优化资源
+    logo: https://www.google.com/s2/favicons?sz=64&domain=bestcf.pages.dev
+      url: https://bestcf.pages.dev/
+      description: 优选IP
     - title: visa虚拟卡
       qrcode: images/qrcodes/usdt.png
       logo:
