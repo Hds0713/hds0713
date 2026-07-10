@@ -26,7 +26,7 @@
       url: https://github.com/Kejifaxian/welcome/releases/tag/vpn
       description: 代理工具
    - title: Cloudflare EDT 导航
-      logo:  https://www.google.com/s2/favicons?sz=64&domain=bestcf.pages.dev
+      logo: https://www.google.com/s2/favicons?sz=64&domain=bestcf.pages.dev
       url: https://bestcf.pages.dev/
       description: 代理工具
     - title: Cloudflare Worker 源码
