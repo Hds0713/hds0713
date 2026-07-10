@@ -16,7 +16,7 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.678cv.com
       url: https://www.678cv.com/
       description: 资源分享
-    - title: Android软件
+    - title: Android 软件
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.j9p.com
       url: https://www.j9p.com/
       description: 资源分享
@@ -29,12 +29,12 @@
       url: https://bestcf.pages.dev/
       description: 代理工具
     - title: Cloudflare Worker 源码
-      qrcode: 
+      qrcode:
       logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
       url: https://github.com/cmliu/edgetunnel
-      description: VPN源码
+      description: VPN 源码
     - title: Cloudflare 平台
-      logo:  https://www.google.com/s2/favicons?sz=64&domain=dash.cloudflare.com
+      logo: https://www.google.com/s2/favicons?sz=64&domain=dash.cloudflare.com
       url: https://dash.cloudflare.com/login
       description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
     - title: Telegram
