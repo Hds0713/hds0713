@@ -28,15 +28,15 @@
     - title: VPN 部署优化资源
       url: https://bestcf.pages.dev/
       description: 优选IP
-    - title: visa虚拟卡
-      qrcode: images/qrcodes/usdt.png
-      logo:
-      url: https://app.pokepay.cc/pages/passport/invitation?r=145892
-      description: usdt套现，国内拼多多消费，支付宝消费
-    - title: IOS (苹果) ID 礼品卡/兑换码
-      logo:  images/logos/5eac6d69dc12980944f98.jpg
-      url: https://app.xintaifree.com?from=5431/
-      description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
+    - title: Cloudflare VPN 部署平台
+      qrcode:
+      logo: https://www.google.com/s2/favicons?sz=64&domain=dash.cloudflare.com/login
+      url: https://dash.cloudflare.com/login
+      description: Cloudflare VPN 部署平台
+    - title: Cloudflare Worker 部署代码
+      logo:  https://www.google.com/s2/favicons?sz=64&domain=github.com/cmliu/edgetunnel
+      url: https://github.com/cmliu/edgetunnel
+      description: Worker 部署代码
     - title: Telegram
       logo: 
       url: https://t.me/kjgxZY/
