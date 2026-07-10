@@ -20,11 +20,11 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.j9p.com
       url: https://www.j9p.com/
       description: 资源分享
-    - title: 环球巴士
+    - title: VPN 代理软件
       qrcode: 
-      logo: images/logos/HQBS.png
-      url: https://universalbus.cn?s=gB8CJKmJdd
-      description: 流媒体影音账号合租平
+      logo: https://www.google.com/s2/favicons?sz=64&domain=github.com/Kejifaxian/welcome/releases/tag/vpn
+      url: https://github.com/Kejifaxian/welcome/releases/tag/vpn
+      description: 代理软件
     - title: "万事达虚拟银行卡"
       url: "https://www.bybit.com/invite?ref=QAM3MOJ"
       description: "国内usdt消费,支付宝、微信充值，海外消费。"
