@@ -41,11 +41,11 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=dash.domain.digitalplat.org
       url: https://dash.domain.digitalplat.org/auth/login/%E5%85%B6%E4%BB%96-my.dnshe.com/clientarea.php/%E5%85%B6%E4%BB%96-dashboard.katabump.com/auth/register
       description: 域名
-    - title: 虚拟信息
+    - title: 虚拟身份信息
       url: https://ratenn.com/%E5%85%B6%E4%BB%96-www.shenfendaquan.com
-      description: 虚拟信息
+      description: 虚拟地址
     - title: 临时邮箱
-      logo:  
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.mffac.com
       url: https://www.mffac.com/
       description: 接码邮箱
     - title: Base64编码解码
