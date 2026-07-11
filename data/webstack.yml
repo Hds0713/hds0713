@@ -73,37 +73,37 @@
       description: 浏览器插件
 
 
-- taxonomy: 社区咨询
+- taxonomy: 游戏下载
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
+    - title: XD GAME
+      logo: https://www.google.com/s2/favicons?sz=www.xdgame.com
+      url: https://www.xdgame.com/
+      description: QQ：63440235 登入
+    - title: PC GAME
+      logo: https://www.google.com/s2/favicons?sz=www.5125youxi.com
+      url: http://www.5125youxi.com/
+      description: 63440235@qq.com/63440235
+    - title: 网络游戏单机端
+      logo: https://www.google.com/s2/favicons?sz=www.iopq.net
+      url: https://www.iopq.net
+      description: 23153873/hds23153873
+    - title: 实况足球游戏
+      logo: https://www.google.com/s2/favicons?sz=www.soccerbar.cc
+      url: https://www.soccerbar.cc/
+      description: hds23153873/hds23153873
+    - title: KDown解析
+      logo: https://www.google.com/s2/favicons?sz=kdown.moiu.cn/free/#/index
+      url: https://kdown.moiu.cn/free/#/index
+      description: 百度网盘下载链接解析
+    - title: 相逢解析
+      logo: https://www.google.com/s2/favicons?sz=pan.xfyzyyb.xyz/user/parse
+      url: https://pan.xfyzyyb.xyz/user/parse
+      description: 百度网盘下载链接解析
+    - title: 闪链解析
+      logo: https://www.google.com/s2/favicons?sz=mf.dp.wpurl.cc/user/parse
+      url: https://mf.dp.wpurl.cc/user/parse
+      description: 百度网盘下载链接解析
     - title: PMCAFF
       logo: images/logos/pmcaff.png
       url: http://www.pmcaff.com/
