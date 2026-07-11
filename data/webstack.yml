@@ -51,26 +51,26 @@
     - title: Base64编码解码
       url: https://99688988.xyz/base64-string-converter/
       description: 将utf-8能表示的所有字符进行Base64编码加密解密
-    - title: 文叔叔
-      logo: 
-      url: https://www.wenshushu.cn/
-      description: 传临时文件,大文件、永不限速
-    - title: 网络剪贴板
-      logo: 
-      url: https://clipboard.168668520.xyz/
-      description: 提供数据暂存和传送服务
-    - title: UUID生成
-      url: https://99688988.xyz/uuid-generator/
-      description: UUID在线生成
-    - title: 轻抖
+    - title: AI 抠图
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.photogrid.app/zh-cn/creation
+      url: https://www.photogrid.app/zh-cn/creation/
+      description: 图片制作
+    - title: 体育直播
+      logo: https://www.google.com/s2/favicons?sz=64&domain=yuyantv.cn
+      url: https://yuyantv.cn/
+      description: 直播平台
+    - title: 体育博彩
+      url: https://bb60.com
+      description: 博彩
+    - title: 油猴插件
       qrcode: 
-      logo: images/logos/qingdou.jpg
-      url: https://share.qingdouyin.com/app/sub-commission-download/1652420599279?type=&code=EWDJXS/
-      description: 涨粉、引流、工具、选品、自购等一站式服务，总有一款适合你！全网达人都在用。
-    - title: 流量变现
-      logo:  images/logos/rengtuiban.png
-      url: https://dt.bd.cn/#/pages/login/register?invite_code=516557
-      description: 一线的APP推广项目分发和流量变现平台
+      logo: https://www.google.com/s2/favicons?sz=greasyfork.org/zh-CN/scripts
+      url: https://greasyfork.org/zh-CN/scripts
+      description: 浏览器插件
+    - title: 浏览器集成
+      logo: https://www.google.com/s2/favicons?sz=www.youxiaohou.com
+      url: https://www.youxiaohou.com/
+      description: 浏览器插件
 
 
 - taxonomy: 社区咨询
